@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="300" width="500" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.11.1" xmlns="http://www.w3.org/2000/svg">
+  <rect height="200" width="400" fill="white" stroke="black"/>
+  <text y="20" text-anchor="start" x="10" fill="white" stroke="black" font-size="20">words words words
+  </text>
+</svg>
